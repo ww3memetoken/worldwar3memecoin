@@ -26,11 +26,12 @@ body {
 .token-logo {
     width: 100px;
     height: 100px;
-    margin-bottom: 20px;
-    border-color: green red gold blue;
-    border-radius: 1020px;
-    border-style: dotted;
-    border-width: 10px;
+    margin-bottom: 2px;
+    border-color: red blue green purple;
+    border-radius: 1px;
+    border-style: double;
+    border-width: 85px;
+    background-image: url('im.jgpeg')
 }
 
 h1 {
